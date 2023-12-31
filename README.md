@@ -18,7 +18,7 @@ In the quest for high data rates and energy efficiency in 5G systems, this study
 
 ## Citation
 Please cite our work using the following reference:
-```
+```bibtex
 @article{ABUIBAID201717,
   title = {Energy-efficient massive MIMO system: Exploiting user location distribution variation},
   journal = {AEU - International Journal of Electronics and Communications},
