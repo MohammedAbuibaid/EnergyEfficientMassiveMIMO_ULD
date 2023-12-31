@@ -1,0 +1,67 @@
+Searching for Global Optimum E at BF ULD
+KgOpt = 96 ,  MgOpt = 228
+lambdaS value = 3226300100 bps; Pi error = 5.0991e-07
+$$$$$$$$$$$$$$$$$$$$$ Adaptive System in BF ULD $$$$$$$$$$$$$$$$$$$$$$$$$
+++++ Loading = 10% ++++
+Mavg = 45
+++++ Loading = 20% ++++
+Mavg = 76
+++++ Loading = 30% ++++
+Mavg = 105
+++++ Loading = 40% ++++
+Mavg = 132
+++++ Loading = 50% ++++
+Mavg = 158
+++++ Loading = 60% ++++
+Mavg = 183
+++++ Loading = 70% ++++
+Mavg = 207
+++++ Loading = 80% ++++
+Mavg = 223
+++++ Loading = 90% ++++
+Mavg = 228
+++++ Loading = 100% ++++
+Mavg = 228
+$$$$$$$$$$$$$$$$$$ Adaptive System in Uniform ULD $$$$$$$$$$$$$$$$$$$$$$$
+++++ Loading = 10% ++++
+Mavg = 31
+++++ Loading = 20% ++++
+Mavg = 40
+++++ Loading = 30% ++++
+Mavg = 54
+++++ Loading = 40% ++++
+Mavg = 68
+++++ Loading = 50% ++++
+Mavg = 82
+++++ Loading = 60% ++++
+Mavg = 96
+++++ Loading = 70% ++++
+Mavg = 109
+++++ Loading = 80% ++++
+Mavg = 122
+++++ Loading = 90% ++++
+Mavg = 135
+++++ Loading = 100% ++++
+Mavg = 148
+$$$$$$$$$$$$$$$$$$$$$ Adaptive System in CF ULD $$$$$$$$$$$$$$$$$$$$$$$$$
+++++ Loading = 10% ++++
+Mavg = 27
+++++ Loading = 20% ++++
+Mavg = 32
+++++ Loading = 30% ++++
+Mavg = 32
+++++ Loading = 40% ++++
+Mavg = 33
+++++ Loading = 50% ++++
+Mavg = 35
+++++ Loading = 60% ++++
+Mavg = 38
+++++ Loading = 70% ++++
+Mavg = 43
+++++ Loading = 80% ++++
+Mavg = 49
+++++ Loading = 90% ++++
+Mavg = 54
+++++ Loading = 100% ++++
+Mavg = 60
+>> 
